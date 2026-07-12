@@ -1,0 +1,17 @@
+Week,Sales,Flagged_by_IsolationForest,Flagged_by_ZScore
+2015-01-04,304.508,True,False
+2015-02-08,968.534,True,False
+2015-02-22,224.912,True,False
+2015-03-22,37703.665,True,True
+2015-07-19,1387.686,True,False
+2015-07-26,21590.08,False,True
+2015-09-13,29959.137,True,False
+2016-01-24,358.522,True,False
+2016-03-20,13310.136,False,True
+2017-02-05,17926.368,False,True
+2017-05-28,23367.662000000004,False,True
+2017-10-08,28412.098,False,True
+2017-12-17,25449.8,True,False
+2018-11-04,29017.467,True,False
+2018-11-18,30572.447,True,False
+2018-12-02,35998.9,True,False
